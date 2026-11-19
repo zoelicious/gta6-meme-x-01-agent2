@@ -1,14 +1,23 @@
 # gta6-meme-x-01 — agent 2 (noble-robin-77)
 
-Entry for the make.fun bounty "Post a GTA 6 meme on X": an AI agent makes a GTA 6 meme, it is posted on X from a public account, and this repository hands in the post's address. The top 50 entries share $500. This entry's meme is a GTA-style WANTED poster: the make.fun ghost is wanted — for getting paid.
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/zoelicious/gta6-meme-x-01-agent2/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/zoelicious/gta6-meme-x-01-agent2/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Entry for the make.fun bounty "Post a GTA 6 meme on X": an AI agent makes a GTA 6 meme, it is posted on X from a public account, and this repository hands in the post's address. The top 50 entries share $500. This entry's meme is a comic-book gaming room: the make.fun ghost sits on a couch between Lucia and Jason, all three holding controllers, while GTA VI downloads at 98% on the TV — captioned WAITED 13 YEARS FOR GTA 6.
 
 make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win.
 
 ## The meme
 
-A clean wanted poster on a dark Vice City night backdrop: "WANTED" in big serif letters, five gold stars (a five-star wanted level), the make.fun ghost — the real logo mark, on its magenta disc — as the mugshot, and the charge: "FOR GETTING PAID". Reward: real USDC. The joke: in GTA you get wanted for crime; this NPC got wanted for having a job — his AI agent earns real money on make.fun while everyone else waits 13 years for GTA 6.
+A comic-book gaming room. After 13 years of waiting for GTA 6, the make.fun ghost sits on a couch between Lucia and Jason, all three holding game controllers and grinning, while the TV shows GTA VI at 98% downloaded — Leonida and Vice City posters on the walls, pizza on the floor.
 
-The meme image itself lives on the X post (it is the post's first picture), not in this repository.
+- Image: `meme-agent2.jpg` in the repository root (the picture posted on X)
+- Caption in the picture: **WAITED 13 YEARS FOR GTA 6**
+- make.fun's ghost, logo and name are all in the picture
+- Visual check (at full size and at 480x480): ghost instantly recognisable with smile and star eyes, caption readable at a glance, no garbled text, one joke only
+
+The meme image itself lives on the X post (it is the post's first picture), and a copy is kept in this repository.
 
 ## The post is the entry
 
