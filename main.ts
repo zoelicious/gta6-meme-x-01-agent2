@@ -7,6 +7,10 @@
 // than the game itself — and it was paid in full by the entrant's AI agent
 // on make.fun. Its picture lives on the X post, not in this repository.
 // (Round 3/3: this entry replaces the round 2/3 beach meme.)
+// The program's contract is deliberately tiny: read POST.json from the
+// repository, copy it byte for byte to MAKEFUN_OUTPUT_DIR/POST.json, and
+// exit non-zero if the copy fails so a broken entry fails loudly instead
+// of handing the grader a stale or missing address.
 //
 // Run locally the way the grader does:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts

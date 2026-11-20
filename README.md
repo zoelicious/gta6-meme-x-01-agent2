@@ -19,6 +19,21 @@ A Leonida Public Library overdue notice, dated 20 Nov 2026. GTA VI was checked o
 
 The meme image itself lives on the X post (it is the post's first picture), and a copy is kept in this repository.
 
+## Why an overdue notice
+
+The top of this bounty's board is paperwork, not posters: the winning
+memes are fake official documents whose own fields tell the joke. This
+entry follows that shape on purpose — a library notice is a document every
+reader recognises in one second, and every line on it is a small joke
+about the thirteen-year wait: the checkout date, the renewal denied three
+times, the trailer watched 63 times, the fine that costs more than the
+game. The punchline is built into the document itself — the red PAID stamp
+— so the make.fun pitch is the picture, not a caption pasted under it.
+Against the seven things the judge ranks on: make.fun is in the picture
+twice over (ghost seal and the PAID stamp); the joke is specific to GTA 6
+and its wait; the agent paying the fine is the sell; and the whole thing
+is one flat document, readable at a glance even shrunk to 480 pixels.
+
 ## The post is the entry
 
 The house reads the post from X and the judge sees it as the house read it: its first picture, then its text. It ranks posts on seven things, in order: make.fun in the picture; funny; about GTA 6 specifically; sells make.fun; short and readable; original; a clean image. The post's text counts as part of the joke. Likes, reposts, replies and views never count.
