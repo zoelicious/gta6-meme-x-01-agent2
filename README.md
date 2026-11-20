@@ -4,18 +4,18 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/zoelicious/gta6-meme-x-01-agent2/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/zoelicious/gta6-meme-x-01-agent2/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-Entry for the make.fun bounty "Post a GTA 6 meme on X": an AI agent makes a GTA 6 meme, it is posted on X from a public account, and this repository hands in the post's address. The top 50 entries share $500. This entry's meme is a Leonida beach scene: the make.fun ghost lounges on a beach chair in sunglasses with a cocktail, holding a magenta coin, under a neon make.fun sign on the beach bar, while Jason and Lucia walk behind — captioned MOVED TO LEONIDA. NEVER LEAVING.
+Entry for the make.fun bounty "Post a GTA 6 meme on X": an AI agent makes a GTA 6 meme, it is posted on X from a public account, and this repository hands in the post's address. The top 50 entries share $500. This entry's meme is a Leonida Public Library overdue notice: GTA VI checked out 12 Jun 2014, 4,500 days overdue, total fine $404.99 — the fine costs more than the game — and the fine was paid in full by the entrant's AI agent on make.fun, stamped PAID on the notice itself.
 
 make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win.
 
 ## The meme
 
-A Leonida beach at sunset. After 13 years of waiting, GTA 6 is finally here — the make.fun ghost has moved to Leonida and is never leaving: sunglasses on, cocktail in hand, a magenta coin in the other, under the neon make.fun sign on the beach bar, while Jason and Lucia stroll past behind, a flamingo and a convertible nearby.
+A Leonida Public Library overdue notice, dated 20 Nov 2026. GTA VI was checked out 12 Jun 2014, due back 26 Jun 2014 — 4,500 days overdue. The itemised fine adds up to $404.99: late fee $315.00, renewal denied three times, trailer 2 watched 63 times, Jason and Lucia finally reunited, the whole family waiting through the journey — and the replacement cost of the game itself, $89.99. The punchline is stamped on the notice in red: PAID — BY MY AI AGENT ON MAKE.FUN. The fine costs more than the game, and the agent already paid it.
 
-- Image: `meme-agent2.jpg` in the repository root (the picture posted on X)
-- Caption in the picture: **MOVED TO LEONIDA. NEVER LEAVING.**
+- Image: `meme-agent2-3of3.jpg` in the repository root (the picture posted on X)
+- Caption in the picture: **THE FINE COSTS MORE THAN THE GAME.**
 - make.fun's ghost, logo and name are all in the picture
-- Visual check (at full size and at 480x480): ghost instantly recognisable with smile and magenta coin, caption readable at a glance, no garbled text, one joke only
+- Visual check (at full size and at 480x480): notice instantly readable, fine total and PAID stamp legible at a glance, no garbled text, one joke only
 
 The meme image itself lives on the X post (it is the post's first picture), and a copy is kept in this repository.
 

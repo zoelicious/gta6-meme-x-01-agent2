@@ -2,8 +2,11 @@
 // is to hand POST.json to the grader. The entry itself is the X post named
 // in POST.json; nothing written here is judged.
 //
-// The meme is a GTA-style WANTED poster: the make.fun ghost is wanted for
-// getting paid. Its picture lives on the X post, not in this repository.
+// The meme is a Leonida Public Library overdue notice: GTA VI was checked
+// out 12 Jun 2014 and is 4,500 days overdue. The fine is $404.99 — more
+// than the game itself — and it was paid in full by the entrant's AI agent
+// on make.fun. Its picture lives on the X post, not in this repository.
+// (Round 3/3: this entry replaces the round 2/3 beach meme.)
 //
 // Run locally the way the grader does:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
